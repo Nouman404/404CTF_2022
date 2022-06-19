@@ -1,6 +1,6 @@
 # À l'aube d'un échange
 
-Nous avons ici une image prise au coucher de soleil. On ne voit pas grand-chose hormis deux gratte-ciels et une église.</br>
+Nous avons ici [une image prise au coucher de soleil](https://github.com/Nouman404/404CTF_2022/blob/main/Renseignement%20en%20sources%20ouvertes/%C3%80%20l'aube%20d'un%20%C3%A9change/Lieu.jpg). On ne voit pas grand-chose hormis deux gratte-ciels et une église.</br>
 Soit on sait qu'ils se trouvent à Lyon soit nous devons chercher la [liste des gratte-ciel de France](https://fr.wikipedia.org/wiki/Liste_des_plus_hauts_gratte-ciel_de_France).
 On trouve rapidement le "Tour Incity" puis la "Tour Part-Dieu".</br>
 ![image](https://user-images.githubusercontent.com/73934639/174500911-3d361fa9-a479-4eeb-ab9d-10bad7e27db7.png)
