@@ -6,4 +6,4 @@ Dans ce challenge il s'agit simplement d'utiliser le ```OR``` pour outrepasser l
 On obtient donc le numéro de téléphone et l'adresse postale :</br>
 ![image](https://user-images.githubusercontent.com/73934639/174606109-44442a9c-e640-4478-8e85-82abfefbcc14.png)
 
-On passe à la [deuxième étape]().
+On passe à la [deuxième étape](https://github.com/Nouman404/404CTF_2022/tree/main/Web/Le%20braquage/Informations).
